@@ -20,4 +20,4 @@ Slides are available above.
 
 ### Exercise
 
-Hand-out is avaialble above.
+Hand-out is available above.
