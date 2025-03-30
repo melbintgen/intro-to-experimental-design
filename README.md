@@ -16,8 +16,8 @@ This workshop includes activities to think about experimental design principles 
 
 ### Material
 
-See the slides
+Slides are available above.
 
 ### Exercise
 
-See the handout
+Hand-out is avaialble above.
